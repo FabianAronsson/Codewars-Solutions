@@ -2,7 +2,7 @@
 
 public static class Multiply
 {
-    public static int Multiply_Solution(int a, int b)
+    public static int Solution(int a, int b)
     {
         return a * b;
     }

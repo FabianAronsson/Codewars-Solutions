@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CodeWars;
+
+//Multiply.Solution(1, 2);
+Maskify.Solution("4556364607935616");
