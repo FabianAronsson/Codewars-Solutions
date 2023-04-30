@@ -1,4 +1,5 @@
 ﻿using CodeWars;
+Console.WriteLine("CodeWars Solutions \n Uncomment to test! \n");
 
 //Multiply.Solution(1, 2);
 //Maskify.Solution("4556364607935616");
@@ -10,3 +11,4 @@
 //RGBToHexConversion.Solution(255, 255, 255);
 //DuplicateEncoder.Solution("din");
 //DecodetheMorsecode.Solution(".... . -.--   .--- ..- -.. .");
+//Buildasquare.Solution(9);
