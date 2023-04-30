@@ -8,3 +8,4 @@
 //RegexValidatePINcode.Solution("1234");
 //SplitStrings.Solution("abcdef");
 //RGBToHexConversion.Solution(255, 255, 255);
+//DuplicateEncoder.Solution("din");
