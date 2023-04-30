@@ -14,3 +14,4 @@ Console.WriteLine("CodeWars Solutions \n Uncomment to test! \n");
 //Buildasquare.Solution(9);
 //CalculateAverage.Solution(new double[] { 17, 16, 16, 16, 16, 15, 17, 17, 15, 5, 17, 17, 16 });
 //PersistentBugger.Solution(999);
+//Humanreadabledurationformat.Solution(3662);
