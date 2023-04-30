@@ -6,3 +6,4 @@
 //Isograms.Solution("Dermatoglyphics");
 //YourOrderPlease.Solution("is2 Thi1s T4est 3a");
 //RegexValidatePINcode.Solution("1234");
+//SplitStrings.Solution("abcdef");

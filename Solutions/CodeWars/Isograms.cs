@@ -1,7 +1,7 @@
 ﻿namespace CodeWars;
 
 //https://www.codewars.com/kata/54ba84be607a92aa900000f1
-public class Isograms
+public static class Isograms
 {
     public static bool Solution(string str)
     {
