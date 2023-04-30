@@ -9,3 +9,4 @@
 //SplitStrings.Solution("abcdef");
 //RGBToHexConversion.Solution(255, 255, 255);
 //DuplicateEncoder.Solution("din");
+//DecodetheMorsecode.Solution(".... . -.--   .--- ..- -.. .");
