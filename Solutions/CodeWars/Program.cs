@@ -18,3 +18,4 @@ Console.WriteLine("CodeWars Solutions \n Uncomment to test! \n");
 //StopgninnipSMyswroW.Solution("Hey fellow warriors");
 //RangeExtraction.Solution(new [] {-10, -9, -8, -6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20});
 //ROT13.Solution("EBG13 rknzcyr.");
+//AddingBigNumbers.Solution("12314123123123123123", "98109091203948109274089712");
