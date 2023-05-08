@@ -20,3 +20,4 @@ Console.WriteLine("CodeWars Solutions \n Uncomment to test! \n");
 //ROT13.Solution("EBG13 rknzcyr.");
 //AddingBigNumbers.Solution("12314123123123123123", "98109091203948109274089712");
 //WhoLikesIt.Solution(new string[] { "Jacob", "Jacob", "Jacob", "Jacob" });
+//BinaryAddition.Solution(5, 9)
